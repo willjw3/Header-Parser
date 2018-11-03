@@ -1,0 +1,59 @@
+/****** Main Styling ******/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Bangers');
+
+body {
+	font-family: 'Bangers', sans-serif;
+	font-size: 20px;
+	color: #222;
+	background-color: gold;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+#youareelle {
+  font-family: sans-serif;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+.user-stories {
+  position: relative;
+  text-align: justify;
+  max-width: 700px;
+  margin: 15px auto;
+}
+code {
+  font-family: monospace;
+  padding: 2px;
+  color: black;
+  background-color: #fff;
+}
+ol {
+	list-style-position: outside;
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+	color: #2574A9;
+}
